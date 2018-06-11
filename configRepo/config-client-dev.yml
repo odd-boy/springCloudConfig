@@ -1,4 +1,4 @@
 server:
   port: 8763
 
-foo: gitValueAfterRefresh
+foo: gitValueBeforeRefresh
